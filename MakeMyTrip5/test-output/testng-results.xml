@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on the INR button]]>
+    </line>
+    <line>
+      <![CDATA[User is able to choose Indian Rupee option]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the check out option]]>
+    </line>
+    <line>
+      <![CDATA[User upadated the check out date]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[Popular option selected]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[Rating option selected]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[Price (Highest First) option selected]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[Price (Lowest First) option selected]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[User clicked on the Explore Maps option]]>
+    </line>
+    <line>
+      <![CDATA[Map view is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User seen the location]]>
+    </line>
+    <line>
+      <![CDATA[Closed the map]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[User navigated to the Searching Property]]>
+    </line>
+    <line>
+      <![CDATA[Pop up handled]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the Homestays and villas link]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to Homestays and villas page]]>
+    </line>
+    <line>
+      <![CDATA[User is able to select the city lable option]]>
+    </line>
+    <line>
+      <![CDATA[User is able to set the city name]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check in date]]>
+    </line>
+    <line>
+      <![CDATA[User is able to click on check out option]]>
+    </line>
+    <line>
+      <![CDATA[User selected the check out date]]>
+    </line>
+    <line>
+      <![CDATA[user clicks the apply button]]>
+    </line>
+    <line>
+      <![CDATA[user is clicks the search button]]>
+    </line>
+    <line>
+      <![CDATA[user navigates to the banglore properties page]]>
+    </line>
+    <line>
+      <![CDATA[Price option selected]]>
+    </line>
+    <line>
+      <![CDATA[User clicked the property]]>
+    </line>
+    <line>
+      <![CDATA[user is navigated to the next page]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-17T02:27:16 IST" name="Default suite" finished-at="2024-11-17T02:32:28 IST" duration-ms="311757">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-11-17T02:27:16 IST" name="Default test" finished-at="2024-11-17T02:32:28 IST" duration-ms="311757">
+      <class name="com.runners.CucumberRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:27:16 IST" name="setUpClass" finished-at="2024-11-17T02:27:16 IST" duration-ms="383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@64e657b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:27:16 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:27:50 IST" duration-ms="33393" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to Currency Option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on the INR button]]>
+            </line>
+            <line>
+              <![CDATA[User is able to choose Indian Rupee option]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:27:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:28:23 IST" duration-ms="32882" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to change the checkout date"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the check out option]]>
+            </line>
+            <line>
+              <![CDATA[User upadated the check out date]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:28:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:28:55 IST" duration-ms="32539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user able to click on the sort by option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[Popular option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:28:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:29:28 IST" duration-ms="32526" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user able to click on the sort by option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[Rating option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:29:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:30:01 IST" duration-ms="32949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user able to click on the sort by option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[Price (Highest First) option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:30:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:30:32 IST" duration-ms="31430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user able to click on the sort by option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[Price (Lowest First) option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:30:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:31:09 IST" duration-ms="36816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to explore the maps"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[User clicked on the Explore Maps option]]>
+            </line>
+            <line>
+              <![CDATA[Map view is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User seen the location]]>
+            </line>
+            <line>
+              <![CDATA[Closed the map]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:31:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:31:50 IST" duration-ms="41129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validate user is able to select the filters for the Property"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[User navigated to the Searching Property]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:31:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-17T02:32:27 IST" duration-ms="36505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to click on the Property"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Make My Trip"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pop up handled]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the Homestays and villas link]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to Homestays and villas page]]>
+            </line>
+            <line>
+              <![CDATA[User is able to select the city lable option]]>
+            </line>
+            <line>
+              <![CDATA[User is able to set the city name]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check in date]]>
+            </line>
+            <line>
+              <![CDATA[User is able to click on check out option]]>
+            </line>
+            <line>
+              <![CDATA[User selected the check out date]]>
+            </line>
+            <line>
+              <![CDATA[user clicks the apply button]]>
+            </line>
+            <line>
+              <![CDATA[user is clicks the search button]]>
+            </line>
+            <line>
+              <![CDATA[user navigates to the banglore properties page]]>
+            </line>
+            <line>
+              <![CDATA[Price option selected]]>
+            </line>
+            <line>
+              <![CDATA[User clicked the property]]>
+            </line>
+            <line>
+              <![CDATA[user is navigated to the next page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runners.CucumberRunner@1d8bd0de]" started-at="2024-11-17T02:32:27 IST" name="tearDownClass" finished-at="2024-11-17T02:32:28 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.runners.CucumberRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
